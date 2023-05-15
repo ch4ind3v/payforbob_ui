@@ -1,4 +1,4 @@
-# vue-project
+# PFB_UI_BY_VUE
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,6 +27,11 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Screenshots
+
+<img width="618" alt="image" src="https://github.com/ch4ind3v/payforbob_ui/assets/133617395/14812ba2-4a4b-471c-964d-6d5a2a8c59f3">
+
 
 ### Lint with [ESLint](https://eslint.org/)
 
